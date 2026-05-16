@@ -1,48 +1,37 @@
-# ⚡ Nexus — Connecting Vision to Reality
-
-Nexus is a premium, high-performance landing page designed for modern digital agencies and creative studios. Built with a focus on aesthetics and user experience, it features a sleek dual-theme design and a responsive, glassmorphism-inspired UI.
-
-<img width="1920" height="970" alt="hero" src="https://github.com/user-attachments/assets/83c4b4b1-916e-4723-9a93-0064d0670d40" />
-
-## 📸 Project Screenshots
-
-| Expertise Section | Contact Section |
-| :---: | :---: |
-| <img width="1920" height="970" alt="services" src="https://github.com/user-attachments/assets/1a74eac9-de2c-4fd1-b33b-53a779fcb004" /> | <img width="1920" height="970" alt="contact" src="https://github.com/user-attachments/assets/6a07093e-4b89-4279-874d-f30398ec4742" /> |
-
-## ✨ Key Features
-- **Interactive Background**: Dynamic network animation using Particles.js.
-- **Modern UI/UX**: Sleek glassmorphism cards and smooth-scroll navigation.
-- **Responsive Design**: Fully optimized for mobile, tablet, and desktop.
-- **Services Showcase**: A clean grid layout detailing Web Dev, Mobile Apps, and UI/UX design.
-- **Lead Generation**: A professional, stylized contact form for potential clients.
-
-## 🛠️ Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Animations**: Particles.js
-- **Typography**: Poppins (Google Fonts)
-
-## 🚀 Getting Started
-
-### Prerequisites
-- A local web server (like **WAMP**, XAMPP, or MAMP) is recommended to run the PHP file.
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/nexus-digital-agency.git
-   ```
-2. Move the project folder to your server's root directory (e.g., `C:\wampserver64\www\`).
-3. Open your browser and navigate to `http://localhost/nexus`.
-
-## 🎨 Design Theme
-The project uses a sophisticated color palette:
-- **Primary**: `#00eaff` (Cyan)
-- **Background**: `#0f172a` (Deep Blue)
-- **Accents**: Glassmorphism (Semi-transparent white with blur)
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
-
+# ⚡ Project Nexus
+ 
+A landing page for a digital agency, built with a dark glassmorphism design and 
+animated particle background. Focused on clean UI and responsive layout.
+ 
+## ✨ Features
+ 
+- Animated particle network background (Particles.js)
+- Glassmorphism card design
+- Services section with a clean grid layout
+- Contact form for leads
+- Smooth scroll navigation
+- Fully responsive — mobile, tablet, desktop
+## 🛠️ Built With
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+ 
+## 🎨 Design
+ 
+Dark theme with cyan accents (`#00eaff`) on a deep blue background (`#0f172a`).
+Glassmorphism cards with blur and semi-transparent styling throughout.
+ 
+## ⚙️ Run Locally (WAMP/XAMPP)
+ 
+```bash
+git clone https://github.com/snehasanu64/Project-Nexus.git
+```
+ 
+1. Copy folder to `C:/wamp64/www/`
+2. Open `http://localhost/Project-Nexus`
+> Note: PHP is only needed for the contact form. Everything else works by just opening `index.php` directly.
+ 
 ---
-Built with ❤️ to accelerate digital innovation.
+Built by [Sneha](https://github.com/snehasanu64)
